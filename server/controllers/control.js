@@ -51,7 +51,7 @@ export const registration = async (req, res) => {
 };
 
 
-// adjust the path as needed
+
 
 export const updatebyIndicate = async (req, res) => {
   const { id } = req.params;
